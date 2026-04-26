@@ -1,2 +1,3 @@
 # Parkinson-s-Disease-Detection-using-Deep-Learning
-This project develops a predictive ML model for early detection of Parkinson’s disease using clinical hand-drawing data. After training and validation, the model was integrated into a user-friendly web app that allows medical professionals to upload patient inputs and receive immediate predictions.
+This project leverages deep learning to facilitate the early detection of Parkinson’s disease through the analysis of clinical handwriting dynamics. By evaluating digitized spiral and meander drawings—tasks commonly used in neurological assessments, the model identifies subtle motor impairments indicative of early-stage Parkinson’s.
+Spiral and meander drawings from the newHandPD dataset were used, and data augmentation techniques were applied to artificially increase the diversity and quantity of the images.
